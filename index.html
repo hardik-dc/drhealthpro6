@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="content">
+<div id="starz-container">
+<h1>Welcome to Mr.HealthPro!</h1>
+<p>Your health assistant for diagnosing symptoms and suggesting precautions.</p>
+<button class="btn"><a href="{{ url_for('diagnosis') }}">Diagnose</a></button>
+<h3 class="quote">"True health isn't just about physical fitness; it's the harmony of mind, body, and soul, where resilience thrives and life's fullest potential unfolds."</h3>
+<div class="robo">
+<div class="box-of-star1">
+  <div data-js="astro" class="astronaut">
+    <div class="head"></div>
+    <div class="arm arm-left"></div>
+    <div class="arm arm-right"></div>
+    <div class="body">
+      <div class="panel"></div>
+    </div>
+    <div class="leg leg-left"></div>
+    <div class="leg leg-right"></div>
+    <div class="schoolbag"></div>
+  </div>
+</div>
+</div>
+</div>
+{% endblock %}

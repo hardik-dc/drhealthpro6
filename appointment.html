@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Find Hospitals</h1>
+    <form method="POST">
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" required>
+        <br>
+        <label for="district">District:</label>
+        <input type="text" id="district" name="district" required>
+        <br><br>
+        <button type="submit" class="btn">Search</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Recommended Hospitals near {{ user_location.address }}:</h2>
+        <ul>
+            {% for hospital in recommendations %}
+                <li>
+                    <strong>Hospital Name:</strong> {{ hospital[0] }} <br>
+                    <strong>Appointment Website:</strong> <a href="{{ hospital[1] }}" target="_blank">{{ hospital[1] }}</a> <br>
+                    <strong>Contact Number:</strong> {{ hospital[2] }} <br>
+                    <strong>Distance (km):</strong> {{ hospital[3]|round(2) }} <br>
+                </li>
+                <br>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,214 @@
+disease,symptoms
+Flu,fever cough sore throat runny nose headache body aches
+Common Cold,runny nose sore throat cough sneezing congestion
+Malaria,fever chills headache muscle pain fatigue
+Diabetes,increased thirst frequent urination extreme hunger unexplained weight loss fatigue blurred vision
+Hypertension,headache shortness of breath nosebleeds dizziness chest pain
+Asthma,shortness of breath chest tightness wheezing coughing
+Pneumonia,cough fever chills shortness of breath chest pain
+Tuberculosis,persistent cough fever night sweats weight loss fatigue
+Bronchitis,cough production of mucus fatigue shortness of breath slight fever
+Gastroenteritis,nausea vomiting diarrhea stomach cramps fever
+Migraine,severe headache nausea vomiting sensitivity to light sensitivity to sound
+Chickenpox,itchy rash fever tiredness loss of appetite headache
+Measles,fever dry cough runny nose sore throat inflamed eyes tiny white spots with bluish-white centers on a red background found inside the mouth on the inner lining of the cheek
+Hepatitis,fever fatigue loss of appetite nausea vomiting abdominal pain dark urine
+Dengue Fever,high fever headache pain behind the eyes joint and muscle pain rash mild bleeding
+COVID-19,fever cough tiredness loss of taste or smell difficulty breathing chest pain
+Ebola,fever severe headache muscle pain weakness fatigue diarrhea vomiting abdominal pain unexplained bleeding
+Zika Virus,fever rash joint pain conjunctivitis muscle pain headache
+Mumps,swollen salivary glands fever headache muscle aches tiredness loss of appetite
+HIV/AIDS,fever chills rash night sweats muscle aches sore throat fatigue swollen lymph nodes
+Lupus,fatigue fever joint pain rash butterfly-shaped rash across the cheeks and nose skin lesions
+Arthritis,joint pain stiffness swelling redness decreased range of motion
+Fibromyalgia,widespread musculoskeletal pain fatigue sleep disturbances cognitive difficulties
+IBS,abdominal pain cramping bloating gas diarrhea constipation
+Crohn's Disease,diarrhea fever fatigue abdominal pain cramping blood in stool
+Ulcerative Colitis,diarrhea with blood abdominal pain rectal pain urgency to defecate weight loss
+Celiac Disease,diarrhea fatigue weight loss bloating gas abdominal pain
+Hypothyroidism,fatigue weight gain cold intolerance dry skin constipation
+Hyperthyroidism,weight loss rapid heartbeat increased appetite nervousness sweating
+Parkinson's Disease,tremors stiffness slowness of movement impaired balance speech changes
+Alzheimer's Disease,memory loss confusion difficulty completing familiar tasks problems with speaking and writing
+Multiple Sclerosis,fatigue difficulty walking numbness tingling muscle weakness vision problems
+ALS,muscle weakness twitching difficulty speaking difficulty swallowing difficulty breathing
+Huntington's Disease,involuntary movements cognitive decline psychiatric disorders
+Epilepsy,seizures temporary confusion staring spells uncontrollable jerking movements loss of consciousness
+Stroke,numbness or weakness sudden confusion trouble speaking trouble seeing trouble walking
+Heart Attack,chest pain shortness of breath nausea lightheadedness discomfort in other areas of the upper body
+Atherosclerosis,chest pain shortness of breath fatigue pain in leg arm or elsewhere that occurs with walking
+Anemia,fatigue weakness pale skin irregular heartbeats shortness of breath dizziness
+Leukemia,fever chills persistent fatigue weakness frequent infections weight loss swollen lymph nodes
+Lymphoma,swollen lymph nodes fatigue fever night sweats shortness of breath
+Melanoma,change in existing mole development of new pigmented or unusual-looking growth on skin
+Psoriasis,red patches of skin covered with thick silvery scales dry cracked skin that may bleed itching burning or soreness
+Eczema,dry skin itching red to brownish-gray patches small raised bumps that may leak fluid and crust over
+Rosacea,facial redness swollen red bumps eye problems enlarged nose
+Gout,intense joint pain lingering discomfort inflammation redness
+Osteoporosis,back pain loss of height stooped posture bone fractures
+Rheumatoid Arthritis,tender warm swollen joints joint stiffness fatigue fever weight loss
+Scleroderma,hardening and tightening of the skin fatigue joint pain heartburn difficulty swallowing
+Raynaud's Disease,cold fingers or toes color changes in skin response to cold or stress numb prickly feeling or stinging pain upon warming or stress relief
+Lupus Nephritis,swelling in legs feet or ankles weight gain due to excess fluid blood in urine foamy urine
+Glomerulonephritis,pink or cola-colored urine foamy urine high blood pressure fluid retention
+Polycystic Kidney Disease,high blood pressure back or side pain headache blood in urine
+Kidney Stones,severe pain side and back pain below ribs pain during urination pink red or brown urine cloudy or foul-smelling urine
+Chronic Kidney Disease,nausea vomiting loss of appetite fatigue weakness sleep problems
+Acute Kidney Injury,decreased urine output fluid retention drowsiness shortness of breath fatigue confusion
+Interstitial Cystitis,chronic pelvic pain pain during intercourse urinary frequency urinary urgency
+UTI,strong persistent urge to urinate burning sensation when urinating cloudy urine
+Prostate Cancer,trouble urinating decreased force in urine stream blood in urine blood in semen bone pain
+Testicular Cancer,lump or enlargement in either testicle heaviness in scrotum dull ache in abdomen or groin
+BPH,frequent or urgent need to urinate increased frequency of urination at night difficulty starting urination weak urine stream
+Prostatitis,pain or burning sensation when urinating difficulty urinating frequent urination pain in the abdomen groin or lower back
+Erectile Dysfunction,trouble getting an erection trouble keeping an erection reduced sexual desire
+Male Hypogonadism,reduced sexual desire erectile dysfunction fatigue decreased muscle mass
+Ovarian Cancer,abdominal bloating quickly feeling full weight loss discomfort in the pelvis area
+Endometriosis,pelvic pain menstrual irregularities pain during intercourse pain with bowel movements
+PCOS,irregular menstrual periods excess hair growth acne obesity
+Cervical Cancer,vaginal bleeding after intercourse pelvic pain during intercourse watery bloody vaginal discharge
+Breast Cancer,lump in the breast change in the size shape or appearance of a breast changes to the skin over the breast
+Menopause,irregular periods vaginal dryness hot flashes chills night sweats
+Osteoarthritis,pain stiffness tenderness loss of flexibility grating sensation
+Chronic Fatigue Syndrome,extreme fatigue that can't be explained by any underlying medical condition
+Lyme Disease,fever headache fatigue skin rash called erythema migrans
+Ankylosing Spondylitis,back pain stiffness hip pain neck pain fatigue
+Sjogren's Syndrome,dry eyes dry mouth joint pain swelling stiffness swollen salivary glands
+Behcet's Disease,mouth sores eye inflammation skin rashes and lesions genital sores
+Addison's Disease,extreme fatigue weight loss decreased appetite darkening of skin low blood pressure
+Cushing's Syndrome,weight gain obesity fatty deposits especially in the midsection upper back face and between the shoulders
+Hyperparathyroidism,fragile bones that easily fracture kidney stones excessive urination abdominal pain
+Hypoparathyroidism,tingling or burning in fingertips toes and lips muscle aches or cramps
+Hypercalcemia,frequent urination excessive thirst bone pain
+Hypocalcemia,numbness tingling muscle cramps
+Vitamin D Deficiency,fatigue bone pain muscle weakness mood changes
+Iron Deficiency Anemia,fatigue weakness pale skin chest pain shortness of breath headache
+Folic Acid Deficiency Anemia,fatigue gray hair mouth sores tongue swelling
+Vitamin B12 Deficiency Anemia,weakness tiredness lightheadedness heart palpitations shortness of breath
+Scurvy,fatigue malaise inflammation of the gums red or purple spots on skin
+Rickets,delayed growth pain in the spine pelvis and legs muscle weakness
+Beriberi,loss of appetite weakness pain in the limbs shortness of breath
+Pellagra,dermatitis diarrhea dementia
+Kwashiorkor,edema irritability anorexia ulcerating dermatoses enlarged liver
+Marasmus,severe undernourishment causing an infant's or child's weight to be significantly low for their age
+Night Blindness,difficulty seeing in dim light
+Color Blindness,difficulty distinguishing between colors
+Cataracts,clouded blurred vision difficulty with vision at night sensitivity to light
+Glaucoma,patchy blind spots in your side vision tunnel vision
+Age-related Macular Degeneration,blurred vision straight lines appear wavy
+Retinitis Pigmentosa,difficulty seeing at night loss of side vision
+Deafness,hearing loss in one or both ears
+Tinnitus,ringing buzzing roaring clicking hissing in ears
+Vertigo,spinning dizziness balance problems
+Meniere's Disease,recurring episodes of vertigo hearing loss tinnitus
+Encephalitis,fever headache vomiting stiff neck drowsiness
+Meningitis,fever headache stiff neck sensitivity to light
+Rabies,fever headache nausea vomiting agitation anxiety confusion
+Tetanus,jaw cramping muscle spasms trouble swallowing
+Botulism,difficulty swallowing muscle weakness double vision drooping eyelids
+Anthrax,flu-like symptoms shortness of breath chest discomfort
+Plague,fever chills headache fatigue muscle aches
+Tularemia,skin ulcers swollen and painful lymph glands fever chills
+Typhoid Fever,fever headache weakness fatigue muscle aches
+Cholera,diarrhea vomiting rapid heart rate loss of skin elasticity dry mucous membranes
+Shigellosis,diarrhea abdominal pain fever cramps nausea vomiting
+Salmonella Infection,diarrhea fever abdominal cramps vomiting nausea headache
+E. coli Infection,severe abdominal cramps diarrhea watery or bloody stool gas loss of appetite
+Campylobacter Infection,diarrhea cramping abdominal pain fever nausea vomiting
+Listeria Infection,fever muscle aches nausea diarrhea
+Norovirus Infection,nausea vomiting diarrhea stomach pain fever headache body aches
+Rotavirus Infection,fever watery diarrhea vomiting abdominal pain dehydration
+Hepatitis A,fever fatigue loss of appetite nausea abdominal pain dark urine clay-colored stools jaundice
+Hepatitis B,abdominal pain dark urine fever joint pain loss of appetite nausea vomiting jaundice
+Hepatitis C,fever fatigue loss of appetite nausea vomiting abdominal pain joint pain jaundice
+West Nile Virus,fever headache body aches skin rash swollen lymph glands
+Yellow Fever,fever chills headache back pain body aches nausea vomiting fatigue weakness
+Mumps,swollen salivary glands fever headache muscle aches tiredness loss of appetite
+Rubella,fever sore throat rash that starts on the face and spreads to the body headache runny or stuffy nose swollen lymph nodes joint pain
+Varicella (Chickenpox),itchy rash fever tiredness loss of appetite headache
+Herpes Zoster (Shingles),pain burning numbness or tingling sensitivity to touch a red rash that begins a few days after the pain
+HIV/AIDS,fever chills rash night sweats muscle aches sore throat fatigue swollen lymph nodes
+Lupus,fatigue fever joint pain rash butterfly-shaped rash across the cheeks and nose skin lesions
+Scleroderma,hardening and tightening of the skin fatigue joint pain heartburn difficulty swallowing
+Raynaud's Disease,cold fingers or toes color changes in skin response to cold or stress numb prickly feeling or stinging pain upon warming or stress relief
+Lupus Nephritis,swelling in legs feet or ankles weight gain due to excess fluid blood in urine foamy urine
+Glomerulonephritis,pink or cola-colored urine foamy urine high blood pressure fluid retention
+Polycystic Kidney Disease,high blood pressure back or side pain headache blood in urine
+Kidney Stones,severe pain side and back pain below ribs pain during urination pink red or brown urine cloudy or foul-smelling urine
+Chronic Kidney Disease,nausea vomiting loss of appetite fatigue weakness sleep problems
+Acute Kidney Injury,decreased urine output fluid retention drowsiness shortness of breath fatigue confusion
+Interstitial Cystitis,chronic pelvic pain pain during intercourse urinary frequency urinary urgency
+UTI,strong persistent urge to urinate burning sensation when urinating cloudy urine
+Prostate Cancer,trouble urinating decreased force in urine stream blood in urine blood in semen bone pain
+Testicular Cancer,lump or enlargement in either testicle heaviness in scrotum dull ache in abdomen or groin
+BPH,frequent or urgent need to urinate increased frequency of urination at night difficulty starting urination weak urine stream
+Prostatitis,pain or burning sensation when urinating difficulty urinating frequent urination pain in the abdomen groin or lower back
+Erectile Dysfunction,trouble getting an erection trouble keeping an erection reduced sexual desire
+Male Hypogonadism,reduced sexual desire erectile dysfunction fatigue decreased muscle mass
+Ovarian Cancer,abdominal bloating quickly feeling full weight loss discomfort in the pelvis area
+Endometriosis,pelvic pain menstrual irregularities pain during intercourse pain with bowel movements
+PCOS,irregular menstrual periods excess hair growth acne obesity
+Cervical Cancer,vaginal bleeding after intercourse pelvic pain during intercourse watery bloody vaginal discharge
+Breast Cancer,lump in the breast change in the size shape or appearance of a breast changes to the skin over the breast
+Menopause,irregular periods vaginal dryness hot flashes chills night sweats
+Osteoarthritis,pain stiffness tenderness loss of flexibility grating sensation
+Chronic Fatigue Syndrome,extreme fatigue that can't be explained by any underlying medical condition
+Lyme Disease,fever headache fatigue skin rash called erythema migrans
+Ankylosing Spondylitis,back pain stiffness hip pain neck pain fatigue
+Sjogren's Syndrome,dry eyes dry mouth joint pain swelling stiffness swollen salivary glands
+Behcet's Disease,mouth sores eye inflammation skin rashes and lesions genital sores
+Addison's Disease,extreme fatigue weight loss decreased appetite darkening of skin low blood pressure
+Cushing's Syndrome,weight gain obesity fatty deposits especially in the midsection upper back face and between the shoulders
+Hyperparathyroidism,fragile bones that easily fracture kidney stones excessive urination abdominal pain
+Hypoparathyroidism,tingling or burning in fingertips toes and lips muscle aches or cramps
+Hypercalcemia,frequent urination excessive thirst bone pain
+Hypocalcemia,numbness tingling muscle cramps
+Vitamin D Deficiency,fatigue bone pain muscle weakness mood changes
+Iron Deficiency Anemia,fatigue weakness pale skin chest pain shortness of breath headache
+Folic Acid Deficiency Anemia,fatigue gray hair mouth sores tongue swelling
+Vitamin B12 Deficiency Anemia,weakness tiredness lightheadedness heart palpitations shortness of breath
+Scurvy,fatigue malaise inflammation of the gums red or purple spots on skin
+Rickets,delayed growth pain in the spine pelvis and legs muscle weakness
+Beriberi,loss of appetite weakness pain in the limbs shortness of breath
+Pellagra,dermatitis diarrhea dementia
+Kwashiorkor,edema irritability anorexia ulcerating dermatoses enlarged liver
+Marasmus,severe undernourishment causing an infant's or child's weight to be significantly low for their age
+Night Blindness,difficulty seeing in dim light
+Color Blindness,difficulty distinguishing between colors
+Cataracts,clouded blurred vision difficulty with vision at night sensitivity to light
+Glaucoma,patchy blind spots in your side vision tunnel vision
+Age-related Macular Degeneration,blurred vision straight lines appear wavy
+Retinitis Pigmentosa,difficulty seeing at night loss of side vision
+Deafness,hearing loss in one or both ears
+Tinnitus,ringing buzzing roaring clicking hissing in ears
+Vertigo,spinning dizziness balance problems
+Meniere's Disease,recurring episodes of vertigo hearing loss tinnitus
+Encephalitis,fever headache vomiting stiff neck drowsiness
+Meningitis,fever headache stiff neck sensitivity to light
+Rabies,fever headache nausea vomiting agitation anxiety confusion
+Tetanus,jaw cramping muscle spasms trouble swallowing
+Botulism,difficulty swallowing muscle weakness double vision drooping eyelids
+Anthrax,flu-like symptoms shortness of breath chest discomfort
+Plague,fever chills headache fatigue muscle aches
+Tularemia,skin ulcers swollen and painful lymph glands fever chills
+Typhoid Fever,fever headache weakness fatigue muscle aches
+Cholera,diarrhea vomiting rapid heart rate loss of skin elasticity dry mucous membranes
+Shigellosis,diarrhea abdominal pain fever cramps nausea vomiting
+Salmonella Infection,diarrhea fever abdominal cramps vomiting nausea headache
+E. coli Infection,severe abdominal cramps diarrhea watery or bloody stool gas loss of appetite
+Campylobacter Infection,diarrhea cramping abdominal pain fever nausea vomiting
+Listeria Infection,fever muscle aches nausea diarrhea
+Norovirus Infection,nausea vomiting diarrhea stomach pain fever headache body aches
+Rotavirus Infection,fever watery diarrhea vomiting abdominal pain dehydration
+Hepatitis A,fever fatigue loss of appetite nausea abdominal pain dark urine clay-colored stools jaundice
+Hepatitis B,abdominal pain dark urine fever joint pain loss of appetite nausea vomiting jaundice
+Hepatitis C,fever fatigue loss of appetite nausea vomiting abdominal pain joint pain jaundice
+West Nile Virus,fever headache body aches skin rash swollen lymph glands
+Yellow Fever,fever chills headache back pain body aches nausea vomiting fatigue weakness
+Mumps,swollen salivary glands fever headache muscle aches tiredness loss of appetite
+Rubella,fever sore throat rash that starts on the face and spreads to the body headache runny or stuffy nose swollen lymph nodes joint pain
+Varicella (Chickenpox),itchy rash fever tiredness loss of appetite headache
+Herpes Zoster (Shingles),pain burning numbness or tingling sensitivity to touch a red rash that begins a few days after the pain
+Viral Fever, fever
+Fever, fever
+Cold, viral cold
